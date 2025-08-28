@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@layer base {
+body {
+    height: 100lvh;
+    width: 100lvw;
+}
+.scroll::-webkit-scrollbar {
+    display: none;
+}
+}
