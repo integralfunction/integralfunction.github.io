@@ -4,6 +4,7 @@
 .output
 .nitro
 .cache
+.github
 dist
 
 # Node dependencies
